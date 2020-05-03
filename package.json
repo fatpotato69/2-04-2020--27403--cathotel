@@ -1,0 +1,20 @@
+{
+  "name": "2-04-2020--27403--cathotel",
+  "version": "1.0.0",
+  "description": "---",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fatpotato69/2-04-2020--27403--cathotel.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fatpotato69/2-04-2020--27403--cathotel/issues"
+  },
+  "homepage": "https://github.com/fatpotato69/2-04-2020--27403--cathotel#readme"
+}
